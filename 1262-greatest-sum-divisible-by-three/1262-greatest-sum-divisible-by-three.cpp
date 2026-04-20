@@ -15,6 +15,7 @@ public:
         for(int i = 0 ; i<nums.size();i++){
             vector<int>temp=dp;
             for(int j = 0 ;j<3;j++){
+                // here calculate the sum using old values which are in dp , i was taking temp
                 int newSum = dp[j]+nums[i];
                 int newRem = newSum%3;
 
