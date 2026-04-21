@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/abhinav-3202/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0040-combination-sum-ii) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/abhinav-3202/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 ## Math
 |  |
