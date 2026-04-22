@@ -27,6 +27,8 @@ public:
             // if(node->left==NULL&&node->right==NULL) {
             //     continue;
             // }
+            // ek baar NULL push ho gya uske baad kuch bhi aaye level me wo to flase hi hoga
+            
             q.push(node->left);
             q.push(node->right);
         }
