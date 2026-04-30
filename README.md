@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhinav-3202/DSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/abhinav-3202/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/abhinav-3202/DSA/tree/master/0216-combination-sum-iii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhinav-3202/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav-3202/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
