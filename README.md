@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-3202/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/abhinav-3202/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/abhinav-3202/DSA/tree/master/0216-combination-sum-iii) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
