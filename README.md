@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav-3202/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -114,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
