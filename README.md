@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/abhinav-3202/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/abhinav-3202/DSA/tree/master/0216-combination-sum-iii) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-3202/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav-3202/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
