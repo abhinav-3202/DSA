@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/abhinav-3202/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/abhinav-3202/DSA/tree/master/1922-count-good-numbers) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhinav-3202/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
