@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav-3202/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
 | [0754-reach-a-number](https://github.com/abhinav-3202/DSA/tree/master/0754-reach-a-number) |
+| [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-3202/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
+| [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav-3202/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
 ## String
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
