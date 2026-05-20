@@ -21,11 +21,13 @@ public:
         }
         int i=count/2 ;
         temp=head;
-        ListNode* front=temp->next;
+        ListNode* front;
         for(int j =0;j<i;j++){
             ListNode* back = st.top();
             st.pop();
-            ListNode* front = temp->next;
+            // temp->next=front;
+            //jab hm temp->next = front kar rhe and then jab same kp back kar rhe then phle wala reference lost ho jaa rha
+            front = temp->next;
             temp->next=back;
             back->next=front;
             temp=front;
