@@ -11,28 +11,37 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        stack<ListNode*>st;
-        int count=0;
-        ListNode* temp = head;
-        while(temp!=NULL){
-            count++;
-            st.push(temp);
-            temp=temp->next;
+        if(!head || !head->next || !head->next->next) return;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        // here middle of list find
+        while(fast->next && fast->next->next){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int i=count/2 ;
-        temp=head;
-        ListNode* front;
-        for(int j =0;j<i;j++){
-            ListNode* back = st.top();
-            st.pop();
-            // temp->next=front;
-            //jab hm temp->next = front kar rhe and then jab same kp back kar rhe then phle wala reference lost ho jaa rha
-            front = temp->next;
-            temp->next=back;
-            back->next=front;
-            temp=front;
+        ListNode* prev = nullptr;
+        ListNode* curr = slow->next;
+        ListNode* temp ;
+        slow->next = nullptr;
+        while(curr!=NULL){
+            temp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr=temp;
         }
-        temp->next=NULL;
-        return ;
+        // now prev is the head of the reversed L.L. of the second half 
+        ListNode* second = prev;
+        ListNode* first = head;
+        while(second!=nullptr){
+            ListNode* temp1= first->next;
+            ListNode* temp2= second->next;
+
+            first->next=second;
+            second->next=temp1;
+
+            first = temp1;
+            second = temp2; 
+
+        }
     }
 };
