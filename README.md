@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhinav-3202/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/abhinav-3202/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/abhinav-3202/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhinav-3202/DSA/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/abhinav-3202/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Combinatorics
