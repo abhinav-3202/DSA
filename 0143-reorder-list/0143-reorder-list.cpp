@@ -22,17 +22,15 @@ public:
         int i=count/2 ;
         temp=head;
         ListNode* front=temp->next;
-        int j=0;
-        while(j < i){
-            temp->next=st.top();
+        for(int j =0;j<i;j++){
+            ListNode* back = st.top();
             st.pop();
-            temp->next->next=front;
+            ListNode* front = temp->next;
+            temp->next=back;
+            back->next=front;
             temp=front;
-            front=front->next;
-            j++;
         }
-        if(count%2==0) front->next=NULL;
-        else if(count%2!=0) temp->next=NULL;
+        temp->next=NULL;
         return ;
     }
 };
