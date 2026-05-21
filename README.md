@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1572-matrix-diagonal-sum](https://github.com/abhinav-3202/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
@@ -179,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/abhinav-3202/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinav-3202/DSA/tree/master/0064-minimum-path-sum) |
+| [1572-matrix-diagonal-sum](https://github.com/abhinav-3202/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
