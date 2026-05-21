@@ -3,21 +3,48 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int m=matrix.size();
         int n = matrix[0].size();
-        stack<pair<int,int>>st;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(matrix[i][j]==0) st.push({i,j});
+        bool isRow = false;
+        bool isCol = false;
+        for(int j=0;j<n;j++){
+            if(matrix[0][j]==0){
+                isCol=true;
             }
         }
-        while(!st.empty()){
-            int a = st.top().first;
-            int b = st.top().second;
-            st.pop();
-            for(int i =0;i<m;i++){
-                matrix[i][b]=0;
+        for(int i=0;i<m;i++){
+            if(matrix[i][0]==0){
+                isRow=true;
             }
-            for(int j =0;j<n;j++){
-                matrix[a][j]=0;
+        }
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                if(matrix[i][j]==0) {//if suppose 0 is in {0,5}
+                    matrix[i][0]=0;
+                    matrix[0][j]=0; // by this line it will set [0,0] as zero which was not originally zero
+                }
+            }
+        }
+        for(int i = 1;i<m;i++){
+            if(matrix[i][0]==0){
+                for(int j=1;j<n;j++){
+                    matrix[i][j]=0;
+                }
+            }
+        }
+        for(int j=1;j<n;j++){
+            if(matrix[0][j]==0){
+                for(int i=1;i<m;i++){
+                    matrix[i][j]=0;
+                }
+            }
+        }
+        if(isRow){
+            for(int i=0;i<m;i++){
+                matrix[i][0]=0;
+            }
+        }
+        if(isCol){
+            for(int j=0;j<n;j++){
+                matrix[0][j]=0;
             }
         }
         return ;
