@@ -12,18 +12,13 @@ public:
         while(!st.empty()){
             int a = st.top().first;
             int b = st.top().second;
-            for(int i=0;i<m;i++){
-                for(int j =0;j<n;j++){
-                    if(i!=a && j!=b) continue;
-                    if(i==a){
-                        matrix[i][j]=0;
-                    }
-                    else if(j==b){
-                        matrix[i][b]=0;
-                    }
-                }
-            }
             st.pop();
+            for(int i =0;i<m;i++){
+                matrix[i][b]=0;
+            }
+            for(int j =0;j<n;j++){
+                matrix[a][j]=0;
+            }
         }
         return ;
     }
