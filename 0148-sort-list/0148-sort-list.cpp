@@ -10,22 +10,37 @@
  */
 class Solution {
 public:
+    ListNode* mergeSort(ListNode* one,ListNode* two){
+        ListNode dummy(0);
+        ListNode* temp =&dummy;
+        while(one!=NULL && two!=NULL){
+            if(one->val>=two->val){
+                temp->next=two;
+                two=two->next;
+            }
+            else{
+                temp->next=one;
+                one=one->next;
+            }
+            temp=temp->next;
+        }
+        if(one!=NULL) temp->next=one;
+        else temp->next=two;
+        return dummy.next;
+    }
     ListNode* sortList(ListNode* head) {
-        if(head==NULL) return head;
-        vector<int>ans;
-        ListNode* temp = head;
-        while(temp!=NULL){
-            ans.push_back(temp->val);
-            temp=temp->next;
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        ListNode* prev=nullptr;
+        while(fast!=NULL && fast->next!=NULL){
+            prev=slow;
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        sort(ans.begin(),ans.end());
-        int i=0;
-        temp=head;
-        while(temp!=NULL){
-            temp->val=ans[i];
-            temp=temp->next;
-            i++;
-        }
-        return head;
+        prev->next=NULL; //unlink kar diya middle ke phle wla and middle ke baad se 
+        ListNode* left=sortList(head); //breaking until single node
+        ListNode* right=sortList(slow);
+        return mergeSort(left,right); // combining 
     }
 };
