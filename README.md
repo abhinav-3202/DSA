@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/abhinav-3202/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/abhinav-3202/DSA/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/abhinav-3202/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/abhinav-3202/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 ## Linked List
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhinav-3202/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/abhinav-3202/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/abhinav-3202/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/abhinav-3202/DSA/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/abhinav-3202/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Combinatorics
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhinav-3202/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abhinav-3202/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/abhinav-3202/DSA/tree/master/1572-matrix-diagonal-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhinav-3202/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
