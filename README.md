@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1572-matrix-diagonal-sum](https://github.com/abhinav-3202/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -142,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
