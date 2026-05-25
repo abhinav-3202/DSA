@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/abhinav-3202/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/abhinav-3202/DSA/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
 | [0754-reach-a-number](https://github.com/abhinav-3202/DSA/tree/master/0754-reach-a-number) |
+| [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/abhinav-3202/DSA/tree/master/1922-count-good-numbers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav-3202/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav-3202/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
 |  |
