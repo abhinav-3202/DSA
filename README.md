@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Counting
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhinav-3202/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhinav-3202/DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/abhinav-3202/DSA/tree/master/1922-count-good-numbers) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
