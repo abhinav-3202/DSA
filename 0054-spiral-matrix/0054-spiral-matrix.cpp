@@ -1,76 +1,35 @@
 class Solution {
 public:
-    void right(vector<vector<int>>& matrix,vector<vector<int>>&dp,vector<int>&ans,int m,int n,int i,int j){
-        if(i >= m || i < 0 || j >= n || j < 0 || dp[i][j] == -1) {
-            return;
-        }
-        int a;
-        for(a =j ;a<n;a++){
-            if(dp[i][a]==-1){
-                down(matrix,dp,ans,m,n,i+1,a-1);
-                return;
-            }
-            ans.push_back(matrix[i][a]);
-            dp[i][a]=-1;
-        }
-        //loop finished and a is at n so a-1
-        down(matrix,dp,ans,m,n,i+1,a-1);
-        return ;
-    }
-    void down(vector<vector<int>>& matrix,vector<vector<int>>&dp,vector<int>&ans,int m,int n,int i,int j){
-        int a;
-        if(i >= m || i < 0 || j >= n || j < 0 || dp[i][j] == -1) {
-            return;
-        }
-        for( a =i ;a<m;a++){
-            if(dp[a][j]==-1){
-                left(matrix,dp,ans,m,n,a-1,j-1);
-                return;
-            }
-            ans.push_back(matrix[a][j]);
-            dp[a][j]=-1;
-        }
-        left(matrix,dp,ans,m,n,a-1,j-1);
-        return ;
-    }
-    void left(vector<vector<int>>& matrix,vector<vector<int>>&dp,vector<int>&ans,int m,int n,int i,int j){
-        if(i >= m || i < 0 || j >= n || j < 0 || dp[i][j] == -1) {
-            return;
-        }
-        int a;
-        for(a = j ;a>=0;a--){
-            if(dp[i][a]==-1){
-                up(matrix,dp,ans,m,n,i-1,a+1);
-                return;
-            }
-            ans.push_back(matrix[i][a]);
-            dp[i][a]=-1;
-        }
-        up(matrix,dp,ans,m,n,i-1,a+1);
-        return ;
-    }
-    void up(vector<vector<int>>& matrix,vector<vector<int>>&dp,vector<int>&ans,int m,int n,int i,int j){
-        if(i >= m || i < 0 || j >= n || j < 0 || dp[i][j] == -1) {
-            return;
-        }
-        int a;
-        for( a =i ;a>=0;a--){
-            if(dp[a][j]==-1){
-                right(matrix,dp,ans,m,n,a+1,j+1);
-                return;
-            }
-            ans.push_back(matrix[a][j]);
-            dp[a][j]=-1;
-        }
-        right(matrix,dp,ans,m,n,a+1,j+1);
-        return ;
-    }
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int m = matrix.size();
+        int m=matrix.size();
         int n=matrix[0].size();
-        vector<vector<int>>dp(m,vector<int>(n,0));
+        int top = 0;
+        int bottom = m-1;
+        int left = 0;
+        int right = n-1;
         vector<int>ans;
-        right(matrix,dp,ans,m,n,0,0);
+        while(top<=bottom && left<=right){
+            for(int j = left ;j<=right;j++){
+                ans.push_back(matrix[top][j]);
+            }// goinf right
+            top++;
+            for(int i=top ; i<=bottom;i++){
+                ans.push_back(matrix[i][right]);
+            }//going down
+            right--;
+            if(top<=bottom){
+                for(int j=right ;j>=left;j--){
+                    ans.push_back(matrix[bottom][j]);//going left
+                }
+                bottom--;
+            }            
+            if(left<=right){
+                for(int i=bottom;i>=top;i--){
+                    ans.push_back(matrix[i][left]);//going up
+                }
+                left++;
+            }
+        }
         return ans;
     }
 };
