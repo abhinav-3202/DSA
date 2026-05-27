@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhinav-3202/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhinav-3202/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/abhinav-3202/DSA/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/abhinav-3202/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/abhinav-3202/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/abhinav-3202/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhinav-3202/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhinav-3202/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/abhinav-3202/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhinav-3202/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/abhinav-3202/DSA/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
