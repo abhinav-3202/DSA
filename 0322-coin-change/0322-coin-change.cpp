@@ -23,11 +23,16 @@ public:
         // int res = check(coins,dp,amount,n-1);
         // if(res==INT_MAX) return -1;
         // else return res;
-        vector<vector<int>>dp(n+1,vector<int>(amount+1,INT_MAX));
-        // dp[0][0]=0;
-        for(int i=0;i<=n;i++){
-            dp[i][0]=0;
+        vector<vector<int>> dp(n + 1, vector<int>(amount + 1, 0));
+        // impossible to make sum with 0 available coins
+        for(int j=1;j<=amount;j++){
+            dp[0][j]=INT_MAX;
         }
+        // vector<vector<int>>dp(n+1,vector<int>(amount+1,INT_MAX)); // 
+        // // dp[0][0]=0;
+        // for(int i=0;i<=n;i++){
+        //     dp[i][0]=0;
+        // } //it takes 0 coins to make sum = 0 
         for(int i=1;i<=n;i++){
             for(int j=1;j<=amount;j++){
                 int notTake = dp[i-1][j];
