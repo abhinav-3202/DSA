@@ -262,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav-3202/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/abhinav-3202/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
