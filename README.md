@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhinav-3202/DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/abhinav-3202/DSA/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav-3202/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/abhinav-3202/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhinav-3202/DSA/tree/master/0213-house-robber-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-3202/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abhinav-3202/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav-3202/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-3202/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-3202/DSA/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav-3202/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
