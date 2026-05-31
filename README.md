@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/abhinav-3202/DSA/tree/master/1672-richest-customer-wealth) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhinav-3202/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2126-destroying-asteroids](https://github.com/abhinav-3202/DSA/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhinav-3202/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2126-destroying-asteroids](https://github.com/abhinav-3202/DSA/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhinav-3202/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2126-destroying-asteroids](https://github.com/abhinav-3202/DSA/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
