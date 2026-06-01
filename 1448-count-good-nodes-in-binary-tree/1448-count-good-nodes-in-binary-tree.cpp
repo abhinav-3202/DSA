@@ -15,13 +15,10 @@ public:
         if(root==NULL) return;
         if(root->val>=maxi){
             count++;
-            check(root->left,count,root->val);
-            check(root->right,count,root->val);
         }
-        else{
-            check(root->left,count,maxi);
-            check(root->right,count,maxi);
-        }
+        maxi=max(maxi,root->val);
+        check(root->left,count,maxi);
+        check(root->right,count,maxi);
     }
     int goodNodes(TreeNode* root) {
         int count=0;
