@@ -10,20 +10,13 @@ public:
         }
         int start=0;
         int end=0;
-        unordered_map<int,int>mpp;
+        // unordered_map<int,int>mpp;
         for(int i=0;i<n;i++){
-            mpp[s[i]-'a']=i;
-            bool flag = true;
-            for(auto it:mpp){
-                if(it.second!=t[it.first]){
-                    flag=false;
-                    break;
-                }
-            }
-            if(flag==true){
-                mpp.clear();
-                ans.push_back(i-end+1);
-                end=i+1;
+            end = max(end,t[s[i]-'a']);//abhi tak jo bhi char aa rhaa usme se sabse last me kaun sa finish ho rhaa
+            if(i==end){
+                // and jab end(sabse last finish pe reach ) kar jaaye then that's the length of the partition
+                ans.push_back(end-start+1);
+                start=end+1;
             }
         }
         return ans;
