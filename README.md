@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-3202/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhinav-3202/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhinav-3202/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhinav-3202/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Counting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/abhinav-3202/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhinav-3202/DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-3202/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/abhinav-3202/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/abhinav-3202/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
