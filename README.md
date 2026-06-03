@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhinav-3202/DSA/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/abhinav-3202/DSA/tree/master/0867-transpose-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhinav-3202/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Backtracking
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-3202/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0754-reach-a-number](https://github.com/abhinav-3202/DSA/tree/master/0754-reach-a-number) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhinav-3202/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -291,4 +294,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
