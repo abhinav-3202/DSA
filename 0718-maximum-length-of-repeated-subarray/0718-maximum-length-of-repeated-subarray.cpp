@@ -11,7 +11,7 @@ public:
                     dp[i][j]= dp[i-1][j-1] +1;
                     ans = max(ans,dp[i][j]);
                 }
-                else dp[i][j]=0;
+                // else dp[i][j]=0;
             }
         }
         return ans;
