@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/abhinav-3202/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/abhinav-3202/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhinav-3202/DSA/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/abhinav-3202/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhinav-3202/DSA/tree/master/0055-jump-game) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinav-3202/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhinav-3202/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhinav-3202/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhinav-3202/DSA/tree/master/0062-unique-paths) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinav-3202/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinav-3202/DSA/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Ordered Set
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhinav-3202/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhinav-3202/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/abhinav-3202/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/abhinav-3202/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhinav-3202/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/abhinav-3202/DSA/tree/master/0088-merge-sorted-array) |
