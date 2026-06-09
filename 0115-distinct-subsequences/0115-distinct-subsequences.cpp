@@ -16,13 +16,24 @@ public:
         return dp[i][j];
     }
     int numDistinct(string s, string t) {
-        // if(s.size()<t.size()) return -1;
-        // int count=0;
-        // string temp="";
         int m=s.size();
         int n=t.size();
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        int count = check(s,t,0,0,m,n,dp);
-        return count;
+        vector<vector<unsigned int>>dp(m+1,vector< unsigned int>(n+1,0));
+        // int count = check(s,t,0,0,m,n,dp);
+        for(int i=0;i<=m;i++){
+            dp[i][0]=1;
+        }// if the length of t string is 0 then any length of s string can form subsequence 
+        for(int i=1;i<=m;i++){
+            for(int j=1;j<=n;j++){
+                if(s[i-1]==t[j-1]){
+                    dp[i][j]=dp[i-1][j-1]+dp[i-1][j];
+                }
+                else {
+                    dp[i][j]=dp[i-1][j];
+                }
+            }
+        }
+        return dp[m][n];
+        // return count;
     }
 };
