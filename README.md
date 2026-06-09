@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhinav-3202/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abhinav-3202/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhinav-3202/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/abhinav-3202/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhinav-3202/DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/abhinav-3202/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav-3202/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhinav-3202/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhinav-3202/DSA/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/abhinav-3202/DSA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/abhinav-3202/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 ## Math
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhinav-3202/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
