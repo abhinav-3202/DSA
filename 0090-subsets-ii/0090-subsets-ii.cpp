@@ -1,11 +1,13 @@
 class Solution {
 public:
-    void check(vector<int>& nums,vector<int>&temp,set<vector<int>>&st,int j,int n){
+    void check(vector<int>& nums,vector<int>&temp,vector<vector<int>>&ans,int j,int n){
         if(j>=n) return;
         for(int i=j;i<n;i++){
+            // dery run in revision copy 
+            if(i>j && nums[i]==nums[i-1]) continue;
             temp.push_back(nums[i]);
-            st.insert(temp);
-            check(nums,temp,st,i+1,n);
+            ans.push_back(temp);
+            check(nums,temp,ans,i+1,n);
             temp.pop_back();
         }
         return;
@@ -16,11 +18,8 @@ public:
         sort(nums.begin(),nums.end());
         vector<vector<int>>ans;
         ans.push_back(temp);
-        set<vector<int>>st;
-        check(nums,temp,st,0,n);
-        for(auto it:st){
-            ans.push_back(it);
-        }
+        // set<vector<int>>st;
+        check(nums,temp,ans,0,n);
         return ans;
     }
 };
