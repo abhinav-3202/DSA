@@ -1,44 +1,15 @@
 class Solution {
 public:
-    void check(vector<string>&s,string &temp,vector<string>&ans,int n){
-        for(int i=0;i<s[0].size();i++){
-            string s1=s[0];
-            temp+=s1[i];
-            if(s.size()==1){
-                ans.push_back(temp);
-                temp.pop_back();
-            }
-            else{
-                for(int j=0;j<s[1].size();j++){
-                    string s2=s[1];
-                    temp+=s2[j];
-                    if(s.size()==2){
-                        ans.push_back(temp);
-                        temp.pop_back();
-                    }
-                    else{
-                        for(int k=0;k<s[2].size();k++){
-                            string s3=s[2];
-                            temp+=s3[k];
-                            if(s.size()==3){
-                                ans.push_back(temp);
-                                temp.pop_back();
-                            }
-                            else{
-                                for(int m=0;m<s[3].size();m++){
-                                    string s4=s[3];
-                                    temp+=s4[m];
-                                    ans.push_back(temp);
-                                    temp.pop_back();
-                                }
-                            }
-                            if (s.size() > 3) temp.pop_back();
-                        }
-                    }
-                    if (s.size() > 2) temp.pop_back();
-                }
-            }
-            if (s.size() > 1) temp.pop_back();
+    void check(vector<string>&s,string &temp,vector<string>&ans,int n,int idx){
+        if(idx>=n){
+            ans.push_back(temp);
+            return ;
+        }   
+        string curr=s[idx];
+        for(int i=0;i<curr.size();i++){
+            temp+=curr[i];
+            check(s,temp,ans,n,idx+1);
+            temp.pop_back();
         }
         return ;
     }
@@ -57,7 +28,7 @@ public:
         int n=s.size();
         string temp;
         vector<string>ans;
-        check(s,temp,ans,n);
+        check(s,temp,ans,n,0);
         return ans;
     }
 };
