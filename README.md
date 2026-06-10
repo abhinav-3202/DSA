@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhinav-3202/DSA/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0739-daily-temperatures](https://github.com/abhinav-3202/DSA/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/abhinav-3202/DSA/tree/master/0867-transpose-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -219,12 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/abhinav-3202/DSA/tree/master/0739-daily-temperatures) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhinav-3202/DSA/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/abhinav-3202/DSA/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/abhinav-3202/DSA/tree/master/0739-daily-temperatures) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Ordered Set
 |  |
