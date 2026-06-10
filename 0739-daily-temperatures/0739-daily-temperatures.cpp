@@ -11,14 +11,8 @@ public:
             while(!st1.empty()&&temperatures[st1.top()]<=temperatures[i]){
                 st1.pop();
             }
-            if(st1.empty()) {
-                ans[i]=0;
-                st1.push(i);
-            }
-            else{
-                if(!st1.empty()) ans[i]=st1.top()-i;
-                st1.push(i);
-            }
+            if(!st1.empty()) ans[i]=st1.top()-i;
+            st1.push(i);
             i--;
         }
         return ans;
