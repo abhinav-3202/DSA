@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhinav-3202/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/abhinav-3202/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/abhinav-3202/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhinav-3202/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhinav-3202/DSA/tree/master/0062-unique-paths) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinav-3202/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/abhinav-3202/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/abhinav-3202/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/abhinav-3202/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhinav-3202/DSA/tree/master/0125-valid-palindrome) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhinav-3202/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/abhinav-3202/DSA/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/abhinav-3202/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhinav-3202/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhinav-3202/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/abhinav-3202/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhinav-3202/DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
