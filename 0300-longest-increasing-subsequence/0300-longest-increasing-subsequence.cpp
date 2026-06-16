@@ -16,8 +16,23 @@ public:
     }
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        int prev_idx=-1;
-        vector<vector<int>>dp(n,vector<int>(n+1,-1));
-        return check(nums,0,n,prev_idx,dp);
+        // int prev_idx=-1;
+        // vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        for(int i=n-1;i>=0;i--){
+            //the prev_idx cannot be beyond or == idx so it will start from one step less
+            for(int prev_idx=i-1;prev_idx>=-1;prev_idx--){
+                if(prev_idx+1==0 || nums[i]>nums[prev_idx]){
+                    int pick= 1+dp[i+1][i+1];
+                    int notPick=dp[i+1][prev_idx+1];
+                    dp[i][prev_idx+1]=max(pick,notPick);
+                }
+                else{
+                    dp[i][prev_idx+1]=dp[i+1][prev_idx+1];
+                }
+            }
+        }
+        return dp[0][0];
+        // return check(nums,0,n,prev_idx,dp);
     }
 };
