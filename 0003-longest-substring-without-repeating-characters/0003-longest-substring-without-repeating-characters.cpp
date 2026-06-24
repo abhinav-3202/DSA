@@ -10,8 +10,8 @@ public:
                     mpp[s[i]]--;
                     if(mpp[s[i]]==0){
                         mpp.erase(s[i]);
-                        i++;
                     }
+                    i++; // in the earlier code i was doing this i++ inside the upper if block which is wrong
             }
             maxi=max(maxi,j-i+1);
             mpp[s[j]]++;
