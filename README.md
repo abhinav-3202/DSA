@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhinav-3202/DSA/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/abhinav-3202/DSA/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/abhinav-3202/DSA/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/abhinav-3202/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-3202/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhinav-3202/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
+| [0904-fruit-into-baskets](https://github.com/abhinav-3202/DSA/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhinav-3202/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-3202/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/abhinav-3202/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-3202/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
