@@ -20,7 +20,7 @@ public:
         int n=prices.size();
         int count=0;
         // vector<vector<int>>dp(n,vector<int>(2,-1));
-        vector<vector<int>>dp(n+1,vector<int>(3,0));
+        vector<vector<int>>dp(n+1,vector<int>(2,0));
         for(int i=n-1;i>=0;i--){
             for(int count=1;count>=0;count--){
                 int profit;
