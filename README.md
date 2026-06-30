@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abhinav-3202/DSA/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/abhinav-3202/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-3202/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/abhinav-3202/DSA/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1470-shuffle-the-array](https://github.com/abhinav-3202/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinav-3202/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/abhinav-3202/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/abhinav-3202/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/abhinav-3202/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-3202/DSA/tree/master/0904-fruit-into-baskets) |
+| [1048-longest-string-chain](https://github.com/abhinav-3202/DSA/tree/master/1048-longest-string-chain) |
 | [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhinav-3202/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/abhinav-3202/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
+| [1048-longest-string-chain](https://github.com/abhinav-3202/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/abhinav-3202/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhinav-3202/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/abhinav-3202/DSA/tree/master/0368-largest-divisible-subset) |
 | [0881-boats-to-save-people](https://github.com/abhinav-3202/DSA/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/abhinav-3202/DSA/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2126-destroying-asteroids](https://github.com/abhinav-3202/DSA/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/abhinav-3202/DSA/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/abhinav-3202/DSA/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/abhinav-3202/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
