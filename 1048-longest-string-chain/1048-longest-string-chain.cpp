@@ -35,7 +35,18 @@ public:
         sort(words.begin(),words.end(),[]( string& a , string& b){
             return a.length()<b.length();
         });
-        vector<vector<int>>dp(n,vector<int>(n+1,-1));
-        return check(0,-1,n,words,dp);
+        // vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        // return check(0,-1,n,words,dp);
+        vector<int>dp(n,1);
+        int maxi=1;
+        for(int i=0;i<n;i++){
+            for(int prev=0;prev<i;prev++){
+                if(compare(words[prev],words[i]) && dp[prev]+1>dp[i]){
+                    dp[i]=1+dp[prev];
+                    maxi=max(maxi,dp[i]);
+                }
+            }
+        }
+        return maxi;
     }
 };
