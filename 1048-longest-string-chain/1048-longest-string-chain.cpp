@@ -30,11 +30,17 @@ public:
             return dp[i][prev+1]=check(i+1,prev,n,words,dp);
         }
     }
+    static bool comp(string &s1,string &s2){
+        return s1.size()<s2.size();
+    }
     int longestStrChain(vector<string>& words) {
         int n=words.size();
-        sort(words.begin(),words.end(),[]( string& a , string& b){
-            return a.length()<b.length();
-        });
+        // sort(words.begin(),words.end(),[]( string& a , string& b){
+        //     return a.length()<b.length();
+        // }); another way of writing lambda fucntion is below 
+        // but better way is lambda fn only 
+        // in here it is calling a member fn and member fn require an object instance to be called 
+        sort(words.begin(),words.end(),comp);
         // vector<vector<int>>dp(n,vector<int>(n+1,-1));
         // return check(0,-1,n,words,dp);
         vector<int>dp(n,1);
