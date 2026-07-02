@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/abhinav-3202/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/abhinav-3202/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhinav-3202/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/abhinav-3202/DSA/tree/master/1672-richest-customer-wealth) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1732-find-the-highest-altitude](https://github.com/abhinav-3202/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhinav-3202/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhinav-3202/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0754-reach-a-number](https://github.com/abhinav-3202/DSA/tree/master/0754-reach-a-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-3202/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhinav-3202/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhinav-3202/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/abhinav-3202/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/abhinav-3202/DSA/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav-3202/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhinav-3202/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2126-destroying-asteroids](https://github.com/abhinav-3202/DSA/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhinav-3202/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
