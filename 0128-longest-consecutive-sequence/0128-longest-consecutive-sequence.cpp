@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         int n=nums.size();
         // if(n==1) return 1;
         if(n==0) return 0;
@@ -9,17 +9,15 @@ public:
             mpp[nums[i]]++;
         }
         int maxi=1;
-        int prev=INT_MIN;
-        int count=0;
         for(auto it:mpp){
-            if(prev+1==it.first){
-                count++;
-                maxi=max(maxi,count);
-                prev=it.first;
-            }
-            else{
-                prev=it.first;
-                count=1;
+            if(mpp.find(it.first-1)==mpp.end()){
+                int x=it.first;
+                int count=1;
+                while(mpp.find(x+1)!=mpp.end()){
+                    count++;
+                    maxi=max(maxi,count);
+                    x++;
+                }
             }
         }
         return maxi;
