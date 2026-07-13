@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/abhinav-3202/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
+| [1079-letter-tile-possibilities](https://github.com/abhinav-3202/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-3202/DSA/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/abhinav-3202/DSA/tree/master/1048-longest-string-chain) |
+| [1079-letter-tile-possibilities](https://github.com/abhinav-3202/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhinav-3202/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/abhinav-3202/DSA/tree/master/2540-minimum-common-value) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/abhinav-3202/DSA/tree/master/1048-longest-string-chain) |
+| [1079-letter-tile-possibilities](https://github.com/abhinav-3202/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1092-shortest-common-supersequence](https://github.com/abhinav-3202/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/abhinav-3202/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhinav-3202/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhinav-3202/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-3202/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1079-letter-tile-possibilities](https://github.com/abhinav-3202/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1512-number-of-good-pairs](https://github.com/abhinav-3202/DSA/tree/master/1512-number-of-good-pairs) |
 | [3889-mirror-frequency-distance](https://github.com/abhinav-3202/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
