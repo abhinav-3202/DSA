@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abhinav-3202/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhinav-3202/DSA/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/abhinav-3202/DSA/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinav-3202/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhinav-3202/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/abhinav-3202/DSA/tree/master/0739-daily-temperatures) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhinav-3202/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhinav-3202/DSA/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/abhinav-3202/DSA/tree/master/0526-beautiful-arrangement) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinav-3202/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/abhinav-3202/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinav-3202/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhinav-3202/DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/abhinav-3202/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/abhinav-3202/DSA/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/abhinav-3202/DSA/tree/master/0526-beautiful-arrangement) |
 | [1079-letter-tile-possibilities](https://github.com/abhinav-3202/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Math
 |  |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/abhinav-3202/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhinav-3202/DSA/tree/master/0090-subsets-ii) |
+| [0526-beautiful-arrangement](https://github.com/abhinav-3202/DSA/tree/master/0526-beautiful-arrangement) |
 ## Trie
 |  |
 | ------- |
@@ -500,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhinav-3202/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/abhinav-3202/DSA/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
