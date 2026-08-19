@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/abhinav-3202/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav-3202/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/abhinav-3202/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav-3202/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/abhinav-3202/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/abhinav-3202/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav-3202/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhinav-3202/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
