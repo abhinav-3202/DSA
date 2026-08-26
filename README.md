@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinav-3202/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhinav-3202/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/abhinav-3202/DSA/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/abhinav-3202/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhinav-3202/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhinav-3202/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinav-3202/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-3202/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/abhinav-3202/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-3202/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/abhinav-3202/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhinav-3202/DSA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/abhinav-3202/DSA/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/abhinav-3202/DSA/tree/master/0881-boats-to-save-people) |
