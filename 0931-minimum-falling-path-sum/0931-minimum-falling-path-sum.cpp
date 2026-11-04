@@ -1,22 +1,20 @@
 class Solution {
 public:
-    int check(int i,int j,int n,vector<vector<int>>& matrix,vector<vector<int>>&dp){
-        if(j<0 || j>n-1) return INT_MAX;
-        if(i==n-1) return dp[i][j]=matrix[i][j];
+    int check(vector<vector<int>>& mat,int i,int j,int m,int n,vector<vector<int>>&dp){
+        if(i>=m||j<0||j>=n) return INT_MAX;
         if(dp[i][j]!=INT_MAX) return dp[i][j];
-        return dp[i][j]=matrix[i][j]+min({
-            check(i+1,j,n,matrix,dp),
-            check(i+1,j+1,n,matrix,dp),
-            check(i+1,j-1,n,matrix,dp),
-        });
+        if(i==m-1) return dp[i][j]=mat[i][j]; 
+        return dp[i][j]=mat[i][j]+min({check(mat,i+1,j-1,m,n,dp),check(mat,i+1,j,m,n,dp),check(mat,i+1,j+1,m,n,dp)});
     }
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n=matrix.size();
-        int ans=INT_MAX;
-        vector<vector<int>>dp(n,vector<int>(n,INT_MAX));
+        int m=matrix.size();
+        int mini=INT_MAX;
+        vector<vector<int>>dp(m,vector<int>(n,INT_MAX));
         for(int j=0;j<n;j++){
-            ans=min(ans,check(0,j,n,matrix,dp));
+            int ans = check(matrix,0,j,m,n,dp);
+            mini= min(ans,mini);
         }
-        return ans;
+        return mini;
     }
 };
